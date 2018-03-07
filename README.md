@@ -77,7 +77,7 @@ log.warn()  // undefined
 log.debug()  // undefined
 log.trace()  // undefined
 
-log.info('world')  // hello world :D
+log.info('world :D')  // hello world :D
 ```
 
 
