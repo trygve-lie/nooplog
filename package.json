@@ -1,0 +1,38 @@
+{
+  "name": "nooplog",
+  "version": "1.0.0",
+  "description": "An no output logger class - Implements a Log4j interface with methods which does not output.",
+  "main": "lib/noop.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "tap test/*.js",
+    "test:coverage": "tap test/*.js --cov",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:trygve-lie/nooplog.git"
+  },
+  "keywords": [
+    "loggerinterface",
+    "logging",
+    "logger",
+    "noop",
+    "log"
+  ],
+  "author": "Trygve Lie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trygve-lie/nooplog/issues"
+  },
+  "homepage": "https://github.com/trygve-lie/nooplog#readme",
+  "devDependencies": {
+    "tap": "^11.1.1",
+    "eslint": "^4.18.2",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0"
+  }
+}
