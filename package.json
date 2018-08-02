@@ -1,6 +1,6 @@
 {
   "name": "nooplog",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An no output logger class - Implements a Log4j interface with methods which does not output.",
   "main": "lib/noop.js",
   "directories": {
