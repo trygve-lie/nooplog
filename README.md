@@ -1,6 +1,6 @@
 # nooplog
 
-[![Dependencies](https://img.shields.io/david/trygve-lie/nooplog.svg?style=flat-square)](https://david-dm.org/trygve-lie/nooplog)[![Build Status](http://img.shields.io/travis/trygve-lie/nooplog/master.svg?style=flat-square)](https://travis-ci.org/trygve-lie/nooplog)
+[![Dependencies](https://img.shields.io/david/trygve-lie/nooplog.svg?style=flat-square)](https://david-dm.org/trygve-lie/nooplog)[![Build Status](http://img.shields.io/travis/trygve-lie/nooplog/master.svg?style=flat-square)](https://travis-ci.org/trygve-lie/nooplog) [![Greenkeeper badge](https://badges.greenkeeper.io/trygve-lie/nooplog.svg)](https://greenkeeper.io/)
 
 An no output logger class - Implements a log interface with methods which does not output anything.
 
