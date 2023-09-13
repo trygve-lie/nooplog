@@ -3,9 +3,11 @@
   "version": "1.0.2",
   "description": "An no output logger class - Implements a Log4j interface with methods which does not output.",
   "main": "lib/noop.js",
-  "directories": {
-    "lib": "lib"
-  },
+  "types": "types/noop.d.ts",
+  "files": [
+    "lib",
+    "types"
+  ],
   "scripts": {
     "test": "tap test/*.js",
     "test:coverage": "tap test/*.js --cov",
